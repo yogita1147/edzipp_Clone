@@ -1,0 +1,397 @@
+:root{
+    
+}
+body{
+    font-family: 'Poppins',sans-serif;
+    margin:0;
+    padding:0;
+}
+.container-fluid{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+html{
+
+}
+.bg-blk{
+    background-color: black;
+}
+
+.bg-btnColor{
+    background: #74E0EF;
+    transition: 0.2s ease-in-out;
+
+}
+
+.underline{
+   color: #5946C5;
+   text-decoration: underline;
+
+}
+
+.bgImg{
+    background-image: url('../img/bannerColoreBg1.png');
+    /* background-position: center center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.discountDescription{
+    width:570px;
+
+}
+
+.btnAddToChrome{
+   background-color: #5946C5;
+   color: white;
+   border:2px solid white;
+   border-radius: 30px;
+   transition: 0.2s ease-in-out;
+   cursor: pointer;
+}
+
+.btnFreeTrial{
+    color:#5946C5;
+    border:2px solid #5946C5 ;
+    background-image: url("../img/bannerColoreBg1.png");
+    background-position: center;
+    border-radius: 30px;
+    transition: 0.2s ease-in-out;
+    cursor: pointer;
+
+}
+
+.btnAddToChrome:hover{
+    background-color:white ;
+    color:#5946C5;
+    border:2px solid #5946C5;
+    border-radius: 30px;
+    /* transition: .1s easeOut; */
+}
+
+.btnFreeTrial:hover{
+   
+    color:white;
+    background-color: #5946C5;
+    border: 2px solid #5946C5;
+    border-radius: 30px;
+}
+.secondSection{
+    background-color: #F5F5F7;
+}
+
+.listColor{
+    color: #79748F;
+
+}
+.btnInsideCard{
+    background-color: #5946C5;
+    color: white;
+    border:2px solid white;
+    transition: 0.2s ease-in-out;
+    cursor: pointer;
+
+}
+.btnWidth{
+    width:159px;
+    border:1px solid #5946C5;
+    border-radius: 18px;
+    background-color: #5946C5;
+    color: white;
+    transition: 0.2s ease-in-out;
+    cursor: pointer;
+    
+}
+.btnWidth3{
+    width:208px;
+    border:1px solid #5946C5;
+    border-radius: 43px;
+    background-color: #5946C5;
+    color: white;
+    transition: 0.2s ease-in-out;
+    cursor: pointer;
+
+}
+.btnWidth3:hover{
+    background-color: #7062bf;
+
+}
+.thirdSection{
+    background-image: url("../img/chromeExtensions.png");
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    width:100%;
+    padding:40px 50px;
+    height:100%;
+    border-radius: 50px;
+    padding:90px;
+}
+.btnAddToChrome3{
+    background-color: #5946C5;
+    color: white;
+    border:2px solid #5946C5;
+    cursor: pointer;
+    border-radius: 30px;
+    /* width:127%; */
+    padding: 18px 62px;
+    transition: 0.2s ease-in-out;
+    cursor: pointer;
+ }
+ .btnAddToChrome3:hover{
+    background-image: url("../img/chromeExtensions.png");
+    background-position: center;
+    color: #5946C5;
+    
+ }
+ .thirdSectionButton{
+    border-radius:12px ;
+    cursor: pointer;
+ }
+ .secondSectionDiv{
+    border-radius: 30px;
+    border:2px solid white;
+    background-color: #fff;
+ }
+
+ .sectionOneButtons{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+ }
+
+ 
+ .cardEach{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+   
+ }
+
+ .sectiondiv{ 
+  
+    background: #D1D1F7;
+    padding-top: 100px;
+    padding-bottom: 100px;
+ }
+ .fourthContainerDiv{
+    background-color: white;
+    border-radius: 50px;
+ }
+
+ .leftNav{
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    bottom: 50%;
+ }
+ .rightNav{
+    position:absolute;
+    top:50%;
+    right:0%;
+    bottom:50%;
+
+ }
+ .sectionSix{
+    background-color: #0b0d17;
+
+ }
+ .privacyColor{
+    color:#74E0EF;
+ }
+ .logoMargin{
+    margin:0px 12px;
+ }
+ .fifthSectionDiv
+ {
+    
+    display:flex;
+
+ }
+.copyRightSection{
+    /* d-flex align-items-center justify-content-around  */
+    display: flex;
+    padding-bottom: 12px;
+   
+    align-items: center;
+    justify-content: space-around;
+
+}
+.navMargin{
+    padding:0px 12px;
+}
+.imgTop{
+    margin-top: 26px;
+}
+.paraColor{
+    color:#484848;
+    font-size: 14px;
+}
+.cardImg{
+
+    width:"35%";
+}
+.paraColor1{
+    color:hsla(0,0%,100%,.56);
+}
+.cardEachR{
+    display: flex;
+    flex-direction:row-reverse; 
+    align-items: center;
+    justify-content: center;
+    /* flex-wrap: wrap; */
+    
+
+}
+.imgWidth{
+    width:"40%";
+}
+.btnFont{
+    font-size: 16px;
+    margin:-1px;
+}
+.btnFontCard{
+    font-size: 13px;
+    padding-top: 4px;
+}
+.btnAddToChrome1{
+    background-color: #5946C5;
+    color: white;
+    border:2px solid white;
+    border-radius: 30px;
+    transition: 0.2s ease-in-out;
+    cursor: pointer;
+ }
+ .btnAddToChrome1:hover{
+    background-color: #7062bf;
+
+
+    border-radius: 30px;
+    /* transition: .1s easeOut; */
+}
+.fonting{
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.btnPadding{
+    padding: 17px 31px;
+}
+.cardImgWidth{
+width:40%;    
+}
+.texting{
+text-align: left;    
+}
+.cardHeading{
+    font-size: 15px;
+    text-align: left;
+    color:#484848;
+    margin-left: 21px
+}
+.cardList{
+    color: #79748f;
+    font-weight: lighter;
+    font-size: 14px;
+}
+.cardBtn{
+    justify-content: left;
+}
+.review{
+    color:#484848;
+}
+.slideDesc{
+    padding: 62px;
+}
+.aligningSectionFive{
+    align-items: left;
+}
+/* start responsive css */
+@media (min-width:992px) and (max-width:1196px){
+    .resMargin{
+        margin:4px;
+    }
+
+    
+}
+@media (max-width: 767.98px) { 
+    .sectionOneButtons{
+       display:flex ;
+       flex-direction: column;
+    }
+    .cardEach{
+        flex-direction: column;
+    }
+    .cardEachR{
+        flex-direction: column;
+    
+    }
+    .fifthSectionDiv{
+        flex-direction: column;
+    }
+    .copyRightSection{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    .fonting
+    {
+        font-size: 32px;
+       
+    }
+    .paraColor{
+        font-size: 11px;
+    }
+    .secondSectionFont{
+        font-size:21px;
+    }
+    .cardImgWidth {
+        width: 90%;
+    }
+    .texting{
+        text-align: center;
+    }
+    .cardHeading{
+        font-size: 13px;
+        text-align: center;
+        margin-left:2px;
+    }
+    .cardBtn{
+        justify-content: center;
+    }
+    .thirdSection{
+        padding: 35px 12px;
+    }
+    .thirdSectionHeading{
+        font-size: 27px;
+    }
+    .sectiondiv{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .slideDesc{
+        font-size: 13px;
+        padding: 15px;
+    }
+    .leftNav{
+        left:-19%;
+    }
+    .rightNav{
+        right:-19%;
+    }
+    .aligningSectionFive{
+        align-items: center;
+    }
+    .cardEachR
+    {
+        flex-wrap: wrap;
+    }
+    /* .imgWidth{
+        height:"50%"
+    } */
+}
+
